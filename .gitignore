@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Vector DB / generated data
+chroma_db/
+*.sqlite3
+
+# Model weights / large artifacts
+*.pt
+*.pth
+*.onnx
+runs/
+results/
+weights/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Env files
+.env
