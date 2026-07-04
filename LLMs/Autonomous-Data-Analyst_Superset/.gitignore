@@ -1,0 +1,34 @@
+# DuckDB data file (regenerated locally from your own source files)
+*.duckdb
+*.duckdb.wal
+
+# Superset's local home directory (SQLite metadata store, secret key, logs, uploads)
+superset_home/
+superset_home*/
+*.log
+
+# Source data you load in (keep the repo code-only; data stays local)
+data/
+*.csv
+*.xlsx
+*.xlsm
+*.xlsb
+*.xls
+*.tsv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

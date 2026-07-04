@@ -1,0 +1,11 @@
+gradio
+ollama
+pandas
+openpyxl
+xlrd
+tabulate
+requests
+duckdb
+apache-superset
+duckdb-engine
+flask-cors
