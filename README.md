@@ -1,5 +1,5 @@
-```markdown
-# BEL Internship — June 2026
+
+# BEL Internship — Summer 2026
 
 Work completed during the internship, covering local LLM applications (chatbot, RAG, and two iterations of an autonomous data-analyst agent) and computer-vision fine-tuning projects (YOLO on SAR imagery and maritime object detection)[cite: 5].
 
